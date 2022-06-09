@@ -18,15 +18,6 @@ In this project:
 * In each mode, you can not press any button except "Play Again" button if you don't have any right to play. <br>
 * If you find the answer, you will see "CONGRATULATIONS" in the screen.<br>
 * if you don't find the answer, you wil see "You Have Lost" and "The Answer Was ..." in the screen.<br>
-* If you want to change the number you enterd,you can press "CLEAR" button.
-* 
+* If you want to change the number you enterd,you can press "CLEAR" button.<br>
 
-
-
-
-
-
-
-
-
-![]()
+(https://github.com/MehmetCakir1/guessTheNumberWithJS/blob/main/guessTheNumber.png)
