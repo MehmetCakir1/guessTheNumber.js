@@ -4,7 +4,7 @@
 <br>
 <div align="center"><img alt="Project" src="https://github.com/MehmetCakir1/guessTheNumberWithJS/blob/main/guessTheNumber.png"</div>
 <br>
- <div>
+ <div align="left">
 In this project:
 * I used generally Bootstrap 5 for layout.
 * I  also used CSS3 for some parts.
