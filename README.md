@@ -1,5 +1,6 @@
 # Guess The Number With Javascript
-[Click here](https://mehmetcakir1.github.io/guessTheNumberWithJS/)
+
+[Click here to see the project](https://mehmetcakir1.github.io/guessTheNumberWithJS/)
 <br>
 In this project:
 * I used generally Bootstrap 5 for layout.
