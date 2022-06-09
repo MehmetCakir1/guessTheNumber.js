@@ -2,6 +2,8 @@
 
 [Click here to see the project](https://mehmetcakir1.github.io/guessTheNumberWithJS/)
 <br>
+<div align="center"><img alt="Project" src="https://github.com/MehmetCakir1/guessTheNumberWithJS/blob/main/guessTheNumber.png"</div>
+<br>
 In this project:
 * I used generally Bootstrap 5 for layout.
 * I  also used CSS3 for some parts.
@@ -20,4 +22,4 @@ In this project:
 * if you don't find the answer, you wil see "You Have Lost" and "The Answer Was ..." in the screen.<br>
 * If you want to change the number you enterd,you can press "CLEAR" button.<br>
 
-(https://github.com/MehmetCakir1/guessTheNumberWithJS/blob/main/guessTheNumber.png)
+
