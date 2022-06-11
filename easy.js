@@ -23,10 +23,6 @@ buttons.addEventListener("click",(e)=>{
         guessScreen.innerText=""
         hintScreen.innerText=""
     }else if(guess=="ENTER"){
-        if(guessScreen.innerText=="You Have Lost"){
-            return;
-        }
-        else{
         if(guessScreen.innerText<10 && guessScreen.innerText>0){
             if(rightCount.innerText>0){
                 if(guessScreen.innerText<answerEasy){
@@ -56,7 +52,6 @@ buttons.addEventListener("click",(e)=>{
             }
         }else{
             hintScreen.innerText="Please enter a number between 1-10"
-        }
         }
     }else{
         guessScreen.innerText+=guess;
