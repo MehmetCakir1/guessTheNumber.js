@@ -2,7 +2,7 @@ let rightCount=document.querySelector(".right");
 let guessScreen=document.querySelector(".guess");
 let hintScreen=document.querySelector(".hint");
 let buttons=document.querySelector(".buttons");
-let answerMedium=Math.floor((Math.random()*10)+1)
+let answerMedium=Math.floor((Math.random()*50)+1)
 
 
 rightCount.innerText=5;
