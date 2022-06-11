@@ -9,11 +9,14 @@ rightCount.innerText=5;
 buttons.addEventListener("click",(e)=>{
     let guess=e.target.innerText;
     if(guessScreen.innerText=="You Have Lost"){
-        null
+        return;
+    }
+    else if(guessScreen.innerText=="CONGRATULATIONS"){
+        return;
     }
     else{
         if(e.target.classList.contains('buttons') || e.target.classList.contains('subbutton')){
-            null
+            return;
         }
         else{
     if(guess=="CLEAR"){
