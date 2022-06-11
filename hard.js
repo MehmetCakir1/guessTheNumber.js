@@ -2,7 +2,7 @@ let rightCount=document.querySelector(".right");
 let guessScreen=document.querySelector(".guess");
 let hintScreen=document.querySelector(".hint");
 let buttons=document.querySelector(".buttons");
-let answerHard=Math.floor((Math.random()*10)+1)
+let answerHard=Math.floor((Math.random()*100)+1)
 
 
 rightCount.innerText=7;
